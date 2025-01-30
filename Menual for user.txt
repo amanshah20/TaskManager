@@ -1,0 +1,36 @@
+How to Use the Task Management System
+The Task Management System is a simple command-line program that helps users add, view, complete, and delete tasks. Follow the steps below to use it efficiently.
+
+Getting Started
+Open the terminal or command prompt on your computer.
+Run the Python file to start the program.
+A menu will appear, showing different options to manage tasks.
+Features & Usage
+Adding a Task
+
+Select the option to add a new task.
+Type the task name when prompted.
+The task will be added to the list as "Pending."
+Viewing Tasks
+
+Select the option to view all tasks.
+The list will show tasks along with their status (Pending or Completed).
+Marking a Task as Completed
+
+Choose the option to mark a task as completed.
+Enter the task number when asked.
+The task status will change to "Completed."
+Deleting a Task
+
+Select the delete option.
+Enter the task number to remove it.
+The selected task will be deleted permanently.
+Exiting the Program
+
+Choose the exit option to close the program.
+All tasks will be lost once the program is closed.
+Important Notes
+Enter valid task numbers when marking or deleting tasks.
+The program does not save tasks after exiting, as it runs in memory only.
+If an invalid input is entered, an error message will appear, prompting you to try again.
+This system is great for simple task tracking without using any external tools. 🚀
